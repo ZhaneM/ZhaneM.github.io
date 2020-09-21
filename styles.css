@@ -1,3 +1,9 @@
 body {
-    background: blue;
+    background: rgb(255, 115, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+    text-align:center;
 }
